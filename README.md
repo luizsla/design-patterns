@@ -25,6 +25,15 @@ Hierarquia das branches:
   * Factory
   * Memento
   * Visitor
+  
+  * PHP
+   * Builder
+   * Chain of Responsability
+   * Template Method
+   * Decorator
+   * Observer
+   * State
+   * Factory
 
   
 
